@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  background-color:#FF9BD2;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  padding: 25px;
+  margin: 0;
+  color: #D63484;
+}

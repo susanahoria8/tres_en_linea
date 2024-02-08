@@ -1,0 +1,28 @@
+.game-info{
+	border: solid black 2px;
+	width: 30%;
+	box-shadow: 10px 10px 5px rgba(227, 61, 148, 1.0);
+	height: 100%;
+}
+
+.game-board{
+
+}
+
+.btn{
+	border: 2px solid black 2px;
+	font-size: 15px;
+	height: 30px;
+	width: 90%;
+	margin: 5px;
+	padding: 2px;
+	cursor: pointer;
+}
+
+.game{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 40px;
+
+}
